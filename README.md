@@ -40,3 +40,5 @@ Here is my snowwoman
  __,- jjs -._ >=,        ,=<'_.---,,___
 
  checking if this worked with VS code not notepad
+
+ I am trying to see if this works, what i need to do is take my new code which i am writing right now, i save it on here with command s, then i select it, click another button, commit it and something else idk lets see of this works
